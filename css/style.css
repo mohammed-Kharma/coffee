@@ -14,7 +14,7 @@ a{
 .bg{
     width: 100%;
     min-height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 10.32.51\ PM.jpeg) no-repeat;
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(../img/ss.jpeg) no-repeat;
     background-size: cover;
     display: flex;
     justify-content: flex-end;
@@ -36,7 +36,7 @@ a{
    
 }
 .container{
-    width: 85%;
+    width: 80%;
     margin: auto;
 }
 .content h4{
@@ -60,13 +60,15 @@ button{
     transform: all 1s;
     direction: ltr;
     font-size: 18px;
+ 
    
 }
 button:hover{
     background-color: #f1c40f;
 }
 .button i{
-    margin-right: 12px;
+    margin-right: 17px;
+   align-self: flex-start;
 }
 @font-face{
     src: url(../font/Tajawal-Bold.ttf);
@@ -88,5 +90,6 @@ header img{
 button img{
     width: 17px;
     height: 17px;
+    margin-right: 17px;
    
 }

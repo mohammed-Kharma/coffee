@@ -3,7 +3,7 @@
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 9.27.54\ PM.jpeg) no-repeat;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
@@ -21,6 +21,9 @@
         display: block;
         position: sticky;
         top: 0;
+    }
+    button .ss{
+        margin-right: 8px!important;
     }
   
 }
@@ -29,7 +32,7 @@
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 9.27.54\ PM.jpeg) no-repeat;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
@@ -47,6 +50,9 @@
         display: block;
         position: sticky;
         top: 0;
+    }
+    button .ss{
+        margin-right: 8px!important;
     }
 
 }
@@ -59,7 +65,7 @@
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 9.27.54\ PM.jpeg) no-repeat;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
@@ -73,6 +79,9 @@
         display: block;
         width: 100%;
     }
+    button .ss{
+        margin-right: 8px!important;
+    }
    
 }
 @media(min-width:992px) and (max-width:1199.98px){
@@ -84,7 +93,7 @@
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 9.27.54\ PM.jpeg) center left;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat center left;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
@@ -96,7 +105,7 @@
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4)), url(../img/WhatsApp\ Image\ 2021-05-02\ at\ 9.27.54\ PM.jpeg)  right;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat right;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
