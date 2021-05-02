@@ -8,6 +8,9 @@ body{
     direction: rtl;
   
 }
+a{
+    text-decoration: none;
+}
 .bg{
     width: 100%;
     min-height: 100vh;
@@ -81,4 +84,9 @@ header{
 header img{
     width:150px;
     height: 150px;
+}
+button img{
+    width: 17px;
+    height: 17px;
+   
 }
