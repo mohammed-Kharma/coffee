@@ -25,6 +25,10 @@
     button .ss{
         margin-right: 8px!important;
     }
+    .content{
+        margin-top: 0px;
+        text-align: right;
+    }
   
 }
 
@@ -54,18 +58,22 @@
     button .ss{
         margin-right: 8px!important;
     }
+    .content{
+        margin-top: 0px;
+        text-align: right;
+    }
 
 }
 @media(min-width:768px) and (max-width:991.98px){
-    header{
+    /* header{
         display: block;
         position: sticky;
         top: 0;
-    }
+    } */
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img//bbb.jpeg) no-repeat center right ;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
@@ -82,24 +90,29 @@
     button .ss{
         margin-right: 8px!important;
     }
+    .content{
+        margin-top: 400px;
+        text-align: right;
+    }
    
 }
 @media(min-width:992px) and (max-width:1199.98px){
-    header{
+    /* header{
         display: block;
         position: sticky;
         top: 0;
-    }
+    } */
     .bg{
         width: 100%;
         min-height: 100vh;
-        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img/ss.jpeg) no-repeat center left;
+        background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url(../img//aaa.jpeg) no-repeat center right ;
         background-size: cover;
         display: flex;
         justify-content: flex-end;
         align-items: center;
         
     }
+    
 }
 @media(min-width:1200px){
     .bg{
